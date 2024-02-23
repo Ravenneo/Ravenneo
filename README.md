@@ -1,7 +1,7 @@
 
 ## Who am I?
 
-Hello, I'm José. I hold a Ph.D. in Microbial Molecular Biology from Newcastle University, focusing on the Tween arginine transport protein Tat (check out my [thesis paper](https://doi.org/10.1099/mic.0.001431)). Currently, my interests revolve around cybersecurity. Previously, I worked on membrane protein purification projects in the Netherlands (Vrije Universiteit Amsterdam), earned an M.Sc in Infectious Diseases, and graduated as a biologist from the University of Seville, with a project on soil bacteria promoting plant growth.
+Hello, I'm José Gallego. I hold a Ph.D. in Microbial Molecular Biology from Newcastle University, focusing on the Tween arginine transport protein Tat (check out my [thesis paper](https://doi.org/10.1099/mic.0.001431)). Currently, my interests revolve around cybersecurity. Previously, I worked on membrane protein purification projects in the Netherlands (Vrije Universiteit Amsterdam), earned an M.Sc in Infectious Diseases, and graduated as a biologist from the University of Seville, with a project on soil bacteria promoting plant growth.
 
 From a young age, I've been passionate about electronics and computing. Throughout my career, I've integrated computational biology into my work and enjoyed exploring IT with hardware and Raspberry Pis in my free time.
 
