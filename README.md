@@ -21,6 +21,7 @@ From a young age, I've been passionate about electronics and computing. Througho
 
 - Homelab cybersecurity
 - Python language
+- Security+ (Plus) Certification
 
 🌐 **I can communicate in:**
 
