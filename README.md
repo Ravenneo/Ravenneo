@@ -7,7 +7,8 @@ From a young age, I've been passionate about electronics and computing. Througho
 
 
 ## Visual CV
-![image](https://github.com/Ravenneo/Ravenneo/assets/41577767/f5e4e32d-21d0-4fc0-9b10-172bf5f554ae)
+![image](https://github.com/Ravenneo/Ravenneo/assets/41577767/79bcd312-32e6-4b4b-ae0c-28ff9ea180a5)
+
 
 
 🔭 **Currently, I'm working on:**
