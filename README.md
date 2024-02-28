@@ -1,7 +1,7 @@
 
 ## Who am I?
 
-Hello, I'm José Gallego. I hold a Ph.D. in Microbial Molecular Biology from Newcastle University, focusing on the Tween arginine transport protein Tat (check out my [thesis paper](https://doi.org/10.1099/mic.0.001431)). Currently, my interests revolve around cybersecurity. Previously, I worked on membrane protein purification projects in the Netherlands (Vrije Universiteit Amsterdam), earned an M.Sc in Infectious Diseases, and graduated as a biologist from the University of Seville, with a project on soil bacteria promoting plant growth.
+Hello, I'm José Gallego. I hold a Ph.D. in Microbial Molecular Biology from Newcastle University, focusing on the Tween arginine transport protein Tat (check out my [thesis paper](https://doi.org/10.1099/mic.0.001431)). Currently, my interests revolve around cybersecurity. Previously, I worked on membrane protein purification projects in the Netherlands (Vrije Universiteit Amsterdam), earned an M.Sc in Infectious Diseases (check out my [proyect about human microbiome](https://www.rcagrupoeditor.es/libreria/autores/gallego-parrilla-jose-jesus/el-papel-del-microbioma-en-la-salud-humana-obra)). My undergraduate project at the University of Seville received honors for research on soil bacteria promoting plant growth. (You can find it [here]([https://doi.org/10.1099/mic.0.001431](https://idus.us.es/handle/11441/61172)))..
 
 From a young age, I've been passionate about electronics and computing. Throughout my career, I've integrated computational biology into my work and enjoyed exploring IT with hardware and Raspberry Pis in my free time.
 
@@ -27,8 +27,9 @@ From a young age, I've been passionate about electronics and computing. Througho
 
 🌐 **I can communicate in:**
 
-- English
-- Spanish
+- 🇬🇧 English (Fluent)
+- 🇪🇸 Spanish (Native)
+- 🇳🇱 Dutch (learing A2)
 
 📫 **How to contact/follow me:**
 
