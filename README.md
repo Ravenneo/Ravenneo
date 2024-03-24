@@ -24,18 +24,20 @@ From a young age, I've been passionate about electronics and computing. Througho
 🌱 **Currently, I'm learning:**
 
 - Homelab cybersecurity
-- Python language
-- Security+ (Plus) Certification
+- Python 
+- Rust
+- Security+ (Plus)
+- MS SC-200
 
 🌐 **I can communicate in:**
 
 - 🇬🇧 English (Fluent)
 - 🇪🇸 Spanish (Native)
-- 🇳🇱 Dutch (learing A2)
+- 🇳🇱 Dutch (learning A2)
 
 📫 **How to contact/follow me:**
 
-- Blog: [Medium](https://medium.com/@josejesusgallegoparrilla)
+- Blog: [Medium](https://medium.com/@josejgp)
 - Publications: [Profile](https://scholar.google.com/citations?hl=en&user=uvyLkwMAAAAJ)
 - Linkedin: [JJ Gallego](www.linkedin.com/in/jose-gallego-ph-d-226299168)
 - Twitter: [@Micro_Gaia](https://twitter.com/Micro_Gaia)
