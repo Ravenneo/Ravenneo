@@ -16,18 +16,18 @@ From a young age, I've been passionate about electronics and computing. Througho
 
 🔭 **Currently, I'm working on:**
 
-- Protein databases
-- Port scanner software
-- Home sensors
-- AI folding proteins
+- 🔬 Protein databases
+- 🔌 Port scanner software
+- 🏠 Home sensors
+- 🧪 AI folding proteins
 
 🌱 **Currently, I'm learning:**
 
 - Homelab cybersecurity
-- Python 
-- Rust
-- Security+ (Plus)
-- MS SC-200
+- 🐍 Python 
+- ⚙️ Rust
+- 🔐 Security+ (Plus)
+- 🔏 MS SC-400
 
 🌐 **I can communicate in:**
 
