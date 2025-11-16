@@ -1,33 +1,34 @@
-
 ## Who am I?
 
+Hi, I'm José “JJ” Gallego. I lead Hardware Technical Operations at Qamarero, where I work on reliable, remotely managed hardware for hospitality and logistics. On the side, I do freelance security work and keep breaking/fixing things in my homelab.
 
-Hello, I'm José Gallego. I hold a Ph.D. in Microbial Molecular Biology from Newcastle University, focusing on the Tween arginine transport protein Tat (check out my [thesis paper](https://doi.org/10.1099/mic.0.001431)). Currently, my interests revolve around cybersecurity. Previously, I worked on membrane protein purification projects in the Netherlands (Vrije Universiteit Amsterdam), earned an M.Sc in Infectious Diseases (check out my [project about human microbiome](https://www.rcagrupoeditor.es/libreria/autores/gallego-parrilla-jose-jesus/el-papel-del-microbioma-en-la-salud-humana-obra)). My undergraduate project at the University of Seville received honors for research on soil bacteria promoting plant growth, you can find it [here](https://doi.org/10.1099/mic.0.001431).
+Originally, I came from science: I hold a Ph.D. in Microbial Molecular Biology from Newcastle University and worked on membrane protein purification at Vrije Universiteit Amsterdam. These days I apply the same experimental mindset to networks, hardware and security instead of bacteria and proteins.
 
-
-From a young age, I've been passionate about electronics and computing. Throughout my career, I've integrated computational biology into my work and enjoyed exploring IT with hardware and Raspberry Pis in my free time.
-
+---
 
 ## Visual CV
-![image](https://github.com/Ravenneo/Ravenneo/assets/41577767/3e206ccc-b81d-4ead-9430-9d0771e4d101)
 
 
+![!st Month](https://github.com/user-attachments/assets/edf3f919-a89e-4536-9bf9-8ccb853e1fd5)
+---
+## 🔭 What I'm currently working on
+
+- 🛰️ **Mesh and LoRa**: MeshTastic nodes, ESP32/LoRa hardware and gateways for low-power, long-range sensing.
+- 🧾 **Hospitality & logistics hardware**: OpenWrt routers, printers, POS integrations and remote fleet management.
+- 🛡️ **Security & homelab**: IDS/IPS, VPNs, small-business/homelab monitoring and hardening.
+- 🧠 **AI & agents**: LLM-based troubleshooting playbooks, simple agents for operations and observability.
+- 🧪 Side experiments: small tools/scripts for device management, OS automations and data collection.
 
 
-🔭 **Currently, I'm working on:**
+## 🌱 What I'm learning
 
-- 🔬 Protein databases
-- 🔌 Port scanner software
-- 🏠 Home sensors
-- 🧪 AI folding proteins
+- 📡 MeshTastic internals, LoRa / LoRaWAN and low-power wireless design.
+- 🔍 IDS / NIDS and log analysis (Suricata/Zeek/Wazuh-style workflows).
+- 🕵️ OSINT and attack-surface mapping for small orgs and homelabs.
+- 🐍 Python for automation and tooling.
+- ⚙️ Rust when I need something safer/faster than a quick script.
+- 🤖 Agentic frameworks and better prompt design for hands-on ops tasks.
 
-🌱 **Currently, I'm learning:**
-
-- Homelab cybersecurity
-- 🐍 Python 
-- ⚙️ Rust
-- 🔐 Security+ (Plus)
-- 🔏 MS SC-400
 
 🌐 **I can communicate in:**
 
