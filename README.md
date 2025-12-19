@@ -40,4 +40,3 @@ Originally, I came from science: I hold a Ph.D. in Microbial Molecular Biology f
 - Blog: [Medium](https://medium.com/@josejgp)
 - Publications: [Profile](https://scholar.google.com/citations?hl=en&user=uvyLkwMAAAAJ)
 - Linkedin: [JJ Gallego](www.linkedin.com/in/jose-gallego-ph-d-226299168)
-- Twitter: [@Micro_Gaia](https://twitter.com/Micro_Gaia)
