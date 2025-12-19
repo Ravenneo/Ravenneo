@@ -8,8 +8,7 @@ Originally, I came from science: I hold a Ph.D. in Microbial Molecular Biology f
 
 ## Visual CV
 
-
-![!st Month](https://github.com/user-attachments/assets/edf3f919-a89e-4536-9bf9-8ccb853e1fd5)
+![Professional Timeline](https://github.com/Ravenneo/Ravenneo/blob/main/timeline_github.svg)
 ---
 ## 🔭 What I'm currently working on
 
