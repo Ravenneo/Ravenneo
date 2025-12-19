@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 500" width="1400" height="500">
+  <defs>
+    <style>
+      .timeline-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+      .title { font-size: 14px; font-weight: 600; fill: #2c3e50; }
+      .period { font-size: 12px; fill: #95a5a6; }
+      .org { font-size: 11px; fill: #7f8c8d; font-style: italic; }
+      .year { font-size: 12px; fill: #95a5a6; font-weight: 500; }
+      .header-title { font-size: 32px; font-weight: 300; fill: #1a1a1a; }
+      .header-subtitle { font-size: 16px; fill: #6c757d; }
+      .card { fill: white; stroke: #e0e0e0; stroke-width: 1; rx: 12; }
+      .current-card { fill: #f1f8e9; stroke: #4caf50; }
+      .timeline-line { stroke: #4caf50; stroke-width: 2; }
+      .dot { fill: #4caf50; stroke: white; stroke-width: 3; }
+      .connector { stroke: #e0e0e0; stroke-width: 2; }
+      .badge-edu { fill: #2196F3; }
+      .badge-work { fill: #4caf50; }
+      .badge-text { fill: white; font-size: 10px; }
+    </style>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="0" dy="2" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.1"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1400" height="500" fill="#fafbfc"/>
+  
+  <!-- Header -->
+  <text x="700" y="50" text-anchor="middle" class="timeline-text header-title">Professional Timeline</text>
+  <text x="700" y="80" text-anchor="middle" class="timeline-text header-subtitle">Hardware Technical Operations Lead | Bioinformatics PhD | Cybersecurity Specialist</text>
+  
+  <!-- Timeline Line -->
+  <line x1="50" y1="250" x2="1350" y2="250" class="timeline-line"/>
+  
+  <!-- 2008 - Biology -->
+  <g transform="translate(112, 150)">
+    <rect x="-70" y="-35" width="140" height="70" class="card" filter="url(#shadow)"/>
+    <circle cx="60" cy="-25" r="12" class="badge-edu"/>
+    <text x="60" y="-21" text-anchor="middle" class="timeline-text badge-text">🎓</text>
+    <text x="0" y="-10" text-anchor="middle" class="timeline-text title">5-Year Biology</text>
+    <text x="0" y="5" text-anchor="middle" class="timeline-text title">Programme</text>
+    <text x="0" y="25" text-anchor="middle" class="timeline-text period">2008-2012</text>
+  </g>
+  <line x1="112" y1="185" x2="112" y2="250" class="connector"/>
+  <circle cx="112" cy="250" r="7" class="dot"/>
+  <text x="112" y="280" text-anchor="middle" class="timeline-text year">2008</text>
+  
+  <!-- 2012 - European Biology -->
+  <g transform="translate(252, 350)">
+    <rect x="-75" y="-40" width="150" height="80" class="card" filter="url(#shadow)"/>
+    <circle cx="65" cy="-30" r="12" class="badge-edu"/>
+    <text x="65" y="-26" text-anchor="middle" class="timeline-text badge-text">🎓</text>
+    <text x="0" y="-15" text-anchor="middle" class="timeline-text title">European Biology</text>
+    <text x="0" y="0" text-anchor="middle" class="timeline-text title">Degree</text>
+    <text x="0" y="18" text-anchor="middle" class="timeline-text org">Univ. of Seville</text>
+    <text x="0" y="35" text-anchor="middle" class="timeline-text period">2012</text>
+  </g>
+  <line x1="252" y1="310" x2="252" y2="250" class="connector"/>
+  <circle cx="252" cy="250" r="7" class="dot"/>
+  <text x="252" y="280" text-anchor="middle" class="timeline-text year">2012</text>
+  
+  <!-- 2016 - Masters -->
+  <g transform="translate(448, 150)">
+    <rect x="-75" y="-35" width="150" height="70" class="card" filter="url(#shadow)"/>
+    <circle cx="65" cy="-25" r="12" class="badge-edu"/>
+    <text x="65" y="-21" text-anchor="middle" class="timeline-text badge-text">🎓</text>
+    <text x="0" y="-10" text-anchor="middle" class="timeline-text title">Masters in</text>
+    <text x="0" y="5" text-anchor="middle" class="timeline-text title">Infectious Diseases</text>
+    <text x="0" y="25" text-anchor="middle" class="timeline-text period">2016</text>
+  </g>
+  <line x1="448" y1="185" x2="448" y2="250" class="connector"/>
+  <circle cx="448" cy="250" r="7" class="dot"/>
+  <text x="448" y="280" text-anchor="middle" class="timeline-text year">2016</text>
+  
+  <!-- 2017 - Guest PhD -->
+  <g transform="translate(560, 350)">
+    <rect x="-70" y="-40" width="140" height="80" class="card" filter="url(#shadow)"/>
+    <circle cx="60" cy="-30" r="12" class="badge-edu"/>
+    <text x="60" y="-26" text-anchor="middle" class="timeline-text badge-text">🎓</text>
+    <text x="0" y="-15" text-anchor="middle" class="timeline-text title">Guest PhD</text>
+    <text x="0" y="2" text-anchor="middle" class="timeline-text org">Vrije Universiteit</text>
+    <text x="0" y="18" text-anchor="middle" class="timeline-text org">Amsterdam</text>
+    <text x="0" y="35" text-anchor="middle" class="timeline-text period">2017</text>
+  </g>
+  <line x1="560" y1="310" x2="560" y2="250" class="connector"/>
+  <circle cx="560" cy="250" r="7" class="dot"/>
+  <text x="560" y="280" text-anchor="middle" class="timeline-text year">2017</text>
+  
+  <!-- 2018-2023 - PhD Research -->
+  <g transform="translate(728, 150)">
+    <rect x="-75" y="-40" width="150" height="80" class="card" filter="url(#shadow)"/>
+    <circle cx="65" cy="-30" r="12" class="badge-edu"/>
+    <text x="65" y="-26" text-anchor="middle" class="timeline-text badge-text">🎓</text>
+    <text x="0" y="-15" text-anchor="middle" class="timeline-text title">PhD Research</text>
+    <text x="0" y="2" text-anchor="middle" class="timeline-text org">Newcastle</text>
+    <text x="0" y="18" text-anchor="middle" class="timeline-text org">University</text>
+    <text x="0" y="35" text-anchor="middle" class="timeline-text period">2018-2023</text>
+  </g>
+  <line x1="728" y1="190" x2="728" y2="250" class="connector"/>
+  <circle cx="728" cy="250" r="7" class="dot"/>
+  <text x="728" y="280" text-anchor="middle" class="timeline-text year">2018-2023</text>
+  
+  <!-- 2023 - Cyber-technician -->
+  <g transform="translate(980, 350)">
+    <rect x="-70" y="-35" width="140" height="70" class="card" filter="url(#shadow)"/>
+    <circle cx="60" cy="-25" r="12" class="badge-work"/>
+    <text x="60" y="-21" text-anchor="middle" class="timeline-text badge-text">💼</text>
+    <text x="0" y="-10" text-anchor="middle" class="timeline-text title">Cyber-technician</text>
+    <text x="0" y="8" text-anchor="middle" class="timeline-text org">Firebrand</text>
+    <text x="0" y="25" text-anchor="middle" class="timeline-text period">2023</text>
+  </g>
+  <line x1="980" y1="315" x2="980" y2="250" class="connector"/>
+  <circle cx="980" cy="250" r="7" class="dot"/>
+  <text x="980" y="280" text-anchor="middle" class="timeline-text year">2023</text>
+  
+  <!-- 2024 - Freelance -->
+  <g transform="translate(1120, 150)">
+    <rect x="-85" y="-40" width="170" height="80" class="card" filter="url(#shadow)"/>
+    <circle cx="75" cy="-30" r="12" class="badge-work"/>
+    <text x="75" y="-26" text-anchor="middle" class="timeline-text badge-text">💼</text>
+    <text x="0" y="-15" text-anchor="middle" class="timeline-text title">Freelance Cyber</text>
+    <text x="0" y="0" text-anchor="middle" class="timeline-text title">Security &amp; Hardware</text>
+    <text x="0" y="15" text-anchor="middle" class="timeline-text title">Specialist</text>
+    <text x="0" y="35" text-anchor="middle" class="timeline-text period">2024</text>
+  </g>
+  <line x1="1120" y1="190" x2="1120" y2="250" class="connector"/>
+  <circle cx="1120" cy="250" r="7" class="dot"/>
+  <text x="1120" y="280" text-anchor="middle" class="timeline-text year">2024</text>
+  
+  <!-- 2025 - Current Role -->
+  <g transform="translate(1288, 350)">
+    <rect x="-85" y="-45" width="170" height="90" class="current-card" filter="url(#shadow)"/>
+    <circle cx="75" cy="-35" r="12" class="badge-work"/>
+    <text x="75" y="-31" text-anchor="middle" class="timeline-text badge-text">💼</text>
+    <text x="0" y="-20" text-anchor="middle" class="timeline-text title">Hardware Technical</text>
+    <text x="0" y="-5" text-anchor="middle" class="timeline-text title">Operations Lead</text>
+    <text x="0" y="13" text-anchor="middle" class="timeline-text org">Qamarero</text>
+    <text x="0" y="30" text-anchor="middle" class="timeline-text period">2025 - Present</text>
+  </g>
+  <line x1="1288" y1="305" x2="1288" y2="250" class="connector"/>
+  <circle cx="1288" cy="250" r="7" class="dot"/>
+  <text x="1288" y="280" text-anchor="middle" class="timeline-text year">2025</text>
+</svg>
